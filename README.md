@@ -19,7 +19,9 @@
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="right" alt="gif" height="100" width="150"src="https://media.giphy.com/media/TbWQoPQOxwBpe/giphy.gif" />
 </div>
+  
   ##
+  
 <div> 
   <a href="https://instagram.com/vinicius_jacques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-jacques-e-gabriel-611200187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
