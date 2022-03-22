@@ -3,7 +3,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielzinjacques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzinjacques&layout=compact&langs_count=7&theme=dracula"/>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/GabrielzinJacques">
 </div>
   
 <h3> 💻 Linguagens e Ferramentas </h3>
