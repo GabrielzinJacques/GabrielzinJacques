@@ -1,8 +1,9 @@
 <h1 align="center">Olá! Eu sou o Vini!</h1>
 <!-- <h3 align="left">- Desenvolvedor Front-end</h3> -->
 <div align="center">
+  <a href="https://github.com/GabrielzinJacques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielzinJacques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinJacques&layout=compact&langs_count=7&theme=dracula"/>
+  <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinJacques&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <h3> 💻 Linguagens e Ferramentas </h3>
