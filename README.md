@@ -2,8 +2,8 @@
 <!-- <h3 align="left">- Desenvolvedor Front-end</h3> -->
 <div align="center">
   <a href="https://github.com/GabrielzinJacques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielzinJacques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinJacques&layout=compact&langs_count=7&theme=dark"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=GabrielzinJacques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinJacques&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <h3> 💻 Linguagens e Ferramentas </h3>
@@ -16,7 +16,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rtl" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png" />
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="right" alt="gif" height="100" width="150"src="https://media.giphy.com/media/g9rtYY1BKdaQE/giphy.gif" />
+  <img align="right" alt="gif" height="100" width="150"src="https://media.giphy.com/media/TbWQoPQOxwBpe/giphy.gif" />
 </div>
   
   
