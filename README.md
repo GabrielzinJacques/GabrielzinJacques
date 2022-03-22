@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Vini!</h1>
+## Olá! Eu sou o Vini!
 <!-- <h3 align="left">- Desenvolvedor Front-end</h3> -->
 <div align="center">
   <a align="center" href="https://github.com/GabrielzinJacques">
