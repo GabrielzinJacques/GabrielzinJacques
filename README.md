@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Vini!</h1>
-<!-- <h3 align="left">- Desenvolvedor Front-end</h3> -->
+<h3 align="left"> Desenvolvedor Front-end</h3>
 <!-- height="180em" -->
 <div align="center">
   <a href="https://github.com/GabrielzinJacques">
@@ -7,7 +7,7 @@
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinJacques&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h3> 💻 Linguagens e Ferramentas </h3>
+<h4> 💻 Linguagens e Ferramentas </h4>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
