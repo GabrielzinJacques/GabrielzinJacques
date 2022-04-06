@@ -7,7 +7,7 @@
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinJacques&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h4> 💻 Linguagens e Ferramentas </h4>
+<h3> 💻 Linguagens e Ferramentas </h3>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
